@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "dataset": "FUELHH",
+            "publishTime": "2026-01-01T12:00:00Z",
+            "startTime": "2026-01-01T11:30:00Z",
+            "settlementDate": "2026-01-01",
+            "settlementPeriod": 24,
+            "fuelType": "BIOMASS",
+            "generation": 1143
+        },
+        {
+            "dataset": "FUELHH",
+            "publishTime": "2026-01-01T12:00:00Z",
+            "startTime": "2026-01-01T11:30:00Z",
+            "settlementDate": "2026-01-01",
+            "settlementPeriod": 24,
+            "fuelType": "CCGT",
+            "generation": 4120
+        },
+        {
+            "dataset": "FUELHH",
+            "publishTime": "2026-01-01T12:00:00Z",
+            "startTime": "2026-01-01T11:30:00Z",
+            "settlementDate": "2026-01-01",
+            "settlementPeriod": 24,
+            "fuelType": "COAL",
+            "generation": 0
+        },
+        {
+            "dataset": "FUELHH",
+            "publishTime": "2026-01-01T12:00:00Z",
+            "startTime": "2026-01-01T11:30:00Z",
+            "settlementDate": "2026-01-01",
+            "settlementPeriod": 24,
+            "fuelType": "INTELEC",
+            "generation": 530
+        },
+        {
+            "dataset": "FUELHH",
